@@ -48,7 +48,7 @@ Enable CGI and click OK to apply the changes.
 <br />
 
 <p>
-<img width="1405" height="742" alt="image" src="https://github.com/user-attachments/assets/c071304f-94f8-4352-b124-3f2d5b965159" />
+<img width="1402" height="737" alt="image" src="https://github.com/user-attachments/assets/85f8ac58-4818-4570-bdaf-7619085cb6a0" />
 
 </p>
 <p>
