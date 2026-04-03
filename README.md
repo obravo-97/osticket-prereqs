@@ -121,19 +121,22 @@ Enable CGI and click OK to apply the changes.
 </p>
 
 <p>
-Restart the IIS server to apply the changes.
+11th Restart the IIS server to apply the changes.
 
 </p>
 <br />
 <p>
-<img width="1297" height="681" alt="image" src="https://github.com/user-attachments/assets/dba43260-3428-4070-a792-f603f9a295fb" />
+<img width="1418" height="732" alt="image" src="https://github.com/user-attachments/assets/d005203c-7509-495b-bf1b-3e3cfe15e30a" />
 
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+Extract osTicket v1.15.8 and copy all contents into:
+
+C:\inetpub\wwwroot
+
+Rename the folder to osTicket.</p>
 <br />
 <p>
-<img width="1297" height="681" alt="image" src="https://github.com/user-attachments/assets/dba43260-3428-4070-a792-f603f9a295fb" />
+<img width="1077" height="726" alt="image" src="https://github.com/user-attachments/assets/569397be-e2ff-42b6-907b-e5f86edc7e48" />
 
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
