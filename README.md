@@ -146,18 +146,22 @@ Sites → Default Web Site → osTicket → Browse
 <img width="1416" height="731" alt="image" src="https://github.com/user-attachments/assets/7248418f-5d6e-41f9-91e1-88dfa297bff7" />
 
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Within PHP Manager, enable the required PHP extensions, restart the server, and verify they are enabled.
+
 </p>
-<br />
 <p>
-<img width="1297" height="681" alt="image" src="https://github.com/user-attachments/assets/dba43260-3428-4070-a792-f603f9a295fb" />
+<img width="1263" height="675" alt="image" src="https://github.com/user-attachments/assets/6ff5a349-a44e-4709-a8ec-45c9bb2bf55e" />
 
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Navigate to:
+
+C:\inetpub\wwwroot\osTicket\include
+
+Rename ost-sampleconfig.php to ost-config.php.
+
 </p>
-<br />
 <p>
-<img width="1297" height="681" alt="image" src="https://github.com/user-attachments/assets/dba43260-3428-4070-a792-f603f9a295fb" />
+<img width="1018" height="633" alt="image" src="https://github.com/user-attachments/assets/9594641b-4f41-4696-9de4-c124998fb1f8" />
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
