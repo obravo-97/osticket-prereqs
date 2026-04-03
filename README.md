@@ -17,7 +17,7 @@ Deployed and configured the osTicket open-source help desk system within a Micro
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+2nd Once the VM deployment is complete, open the Remote Desktop application and connect using the VM’s public IP address.
 </p>
 <br />
 
