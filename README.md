@@ -172,28 +172,28 @@ Grant Everyone full control.</p>
 <p>
 Continue the osTicket web-based setup by clicking Continue. Assign a help desk name and configure a default email address for ticket notifications.</p>
 <p>
-<img width="1297" height="681" alt="image" src="https://github.com/user-attachments/assets/dba43260-3428-4070-a792-f603f9a295fb" />
+<img width="1238" height="747" alt="image" src="https://github.com/user-attachments/assets/9b7c7a8f-4fb9-465a-9600-cee0fd0471e0" />
 
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Install HeidiSQL, open the application, and create a new session using root as the username and password.
+
 </p>
-<br />
 <p>
-<img width="1297" height="681" alt="image" src="https://github.com/user-attachments/assets/dba43260-3428-4070-a792-f603f9a295fb" />
+<img width="853" height="598" alt="image" src="https://github.com/user-attachments/assets/aef1e673-d668-47fa-a231-113b02e7921f" />
 
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Create a new database named osTicket.
+
 </p>
-<br />
 <p>
-<img width="1297" height="681" alt="image" src="https://github.com/user-attachments/assets/dba43260-3428-4070-a792-f603f9a295fb" />
+<img width="1227" height="803" alt="image" src="https://github.com/user-attachments/assets/b9425ba1-2204-4c7c-8903-1fcc0b18e288" />
 
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Select Continue to complete the installation.
+
 </p>
-<br />
 <p>
-<img width="1297" height="681" alt="image" src="https://github.com/user-attachments/assets/dba43260-3428-4070-a792-f603f9a295fb" />
+<img width="1297" height="973" alt="image" src="https://github.com/user-attachments/assets/863b0de8-e729-4956-be30-9c5bcb116e99" />
 
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
