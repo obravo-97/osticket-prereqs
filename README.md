@@ -11,6 +11,7 @@ Deployed and configured the osTicket open-source help desk system within a Micro
 
 
 <h2>Installation Steps</h2>
+
 1st step , create a new Azure Virtual Machine. Name it something descriptive, such as osTicket-VM. Select Windows 10 Pro with 2 vCPUs, check the licensing confirmation box, and proceed with creating the VM.
 
 <p>
