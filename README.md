@@ -167,6 +167,25 @@ Right-click the file, open Properties → Security, disable inheritance, and rem
 
 Grant Everyone full control.</p>
 <p>
+<img width="706" height="451" alt="image" src="https://github.com/user-attachments/assets/b0eea705-d74f-45cd-9fdb-fb34998ef225" />
+
+<p>
+Continue the osTicket web-based setup by clicking Continue. Assign a help desk name and configure a default email address for ticket notifications.</p>
+<p>
+<img width="1297" height="681" alt="image" src="https://github.com/user-attachments/assets/dba43260-3428-4070-a792-f603f9a295fb" />
+
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />
+<p>
+<img width="1297" height="681" alt="image" src="https://github.com/user-attachments/assets/dba43260-3428-4070-a792-f603f9a295fb" />
+
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />
+<p>
 <img width="1297" height="681" alt="image" src="https://github.com/user-attachments/assets/dba43260-3428-4070-a792-f603f9a295fb" />
 
 <p>
