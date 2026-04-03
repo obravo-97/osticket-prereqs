@@ -136,7 +136,6 @@ Sites → Default Web Site → osTicket → Browse
 
 <p>
 15th Within PHP Manager, enable the required PHP extensions, restart the server, and verify they are enabled.
-
 </p>
 <p>
 <img width="1263" height="675" alt="image" src="https://github.com/user-attachments/assets/6ff5a349-a44e-4709-a8ec-45c9bb2bf55e" />
