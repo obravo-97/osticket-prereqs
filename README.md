@@ -39,7 +39,11 @@ Deployed and configured the osTicket open-source help desk system within a Micro
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+4th Enable IIS by opening the Control Panel and selecting Turn Windows features on or off. Locate Internet Information Services (IIS), enable it, then navigate to:
+
+World Wide Web Services → Application Development Features → CGI
+
+Enable CGI and click OK to apply the changes.
 </p>
 <br />
 
