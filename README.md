@@ -116,12 +116,13 @@ Enable CGI and click OK to apply the changes.
 </p>
 <br />
 <p>
-<img width="1297" height="681" alt="image" src="https://github.com/user-attachments/assets/dba43260-3428-4070-a792-f603f9a295fb" />
+<img width="1418" height="721" alt="image" src="https://github.com/user-attachments/assets/fb15b8e9-476a-4bc5-980d-6845b0200d7e" />
 
 </p>
 
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Restart the IIS server to apply the changes.
+
 </p>
 <br />
 <p>
