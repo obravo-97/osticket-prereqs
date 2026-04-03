@@ -103,7 +103,6 @@ Enable CGI and click OK to apply the changes.
 
 <p>
 9th When prompted for database credentials during setup, use root as both the username and password for this lab environment, then click Execute.</p>
-<br />
 <p>
 <img width="1382" height="785" alt="image" src="https://github.com/user-attachments/assets/353f1b43-dde0-417e-8edb-e559a026bb38" />
 <img width="625" height="472" alt="image" src="https://github.com/user-attachments/assets/b6107235-5e90-4906-b8a2-ebc15eaf9d5f" />
@@ -124,7 +123,6 @@ Enable CGI and click OK to apply the changes.
 11th Restart the IIS server to apply the changes.
 
 </p>
-<br />
 <p>
 <img width="1418" height="732" alt="image" src="https://github.com/user-attachments/assets/d005203c-7509-495b-bf1b-3e3cfe15e30a" />
 
@@ -134,7 +132,6 @@ Extract osTicket v1.15.8 and copy all contents into:
 C:\inetpub\wwwroot
 
 Rename the folder to osTicket.</p>
-<br />
 <p>
 <img width="1077" height="726" alt="image" src="https://github.com/user-attachments/assets/569397be-e2ff-42b6-907b-e5f86edc7e48" />
 
