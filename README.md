@@ -66,7 +66,7 @@ Enable CGI and click OK to apply the changes.
 
 </p>
 <p>
-6th Create a new folder named PHP in the root of the C:\ drive.
+7th Create a new folder named PHP in the root of the C:\ drive.
 
 </p>
 <p>
@@ -74,17 +74,16 @@ Enable CGI and click OK to apply the changes.
 
 </p>
 <p>
-7th Locate php-7.3.8-nts-Win32-VC15-x86.zip, extract it, and move its contents into the newly created C:\PHP directory.
+8th Locate php-7.3.8-nts-Win32-VC15-x86.zip, extract it, and move its contents into the newly created C:\PHP directory.
 </p>
 <p>
 <img width="1157" height="901" alt="image" src="https://github.com/user-attachments/assets/295501a8-b7e6-4c84-8f59-f9e6694ee210" />
 
 </p>
 <p>
-8th Install VC_redist.x86.exe.
+9th Install VC_redist.x86.exe.
 
 </p>
-<br />
 
 
 <p>
@@ -93,7 +92,7 @@ Enable CGI and click OK to apply the changes.
 </p>
 
 <p>
-9th When prompted for database credentials during setup, use root as both the username and password for this lab environment, then click Execute.</p>
+10th When prompted for database credentials during setup, use root as both the username and password for this lab environment, then click Execute.</p>
 <p>
 <img width="1382" height="785" alt="image" src="https://github.com/user-attachments/assets/353f1b43-dde0-417e-8edb-e559a026bb38" />
 <img width="625" height="472" alt="image" src="https://github.com/user-attachments/assets/b6107235-5e90-4906-b8a2-ebc15eaf9d5f" />
@@ -101,24 +100,23 @@ Enable CGI and click OK to apply the changes.
 </p>
 
 <p>
-10th Open IIS Manager as an administrator. Select osTicket, then open PHP Manager and register the php-cgi.exe file.
+11th Open IIS Manager as an administrator. Select osTicket, then open PHP Manager and register the php-cgi.exe file.
 
 </p>
-<br />
 <p>
 <img width="1418" height="721" alt="image" src="https://github.com/user-attachments/assets/fb15b8e9-476a-4bc5-980d-6845b0200d7e" />
 
 </p>
 
 <p>
-11th Restart the IIS server to apply the changes.
+12th Restart the IIS server to apply the changes.
 
 </p>
 <p>
 <img width="1418" height="732" alt="image" src="https://github.com/user-attachments/assets/d005203c-7509-495b-bf1b-3e3cfe15e30a" />
 
 <p>
-12th Extract osTicket v1.15.8 and copy all contents into:
+13th Extract osTicket v1.15.8 and copy all contents into:
 
 C:\inetpub\wwwroot
 
@@ -127,7 +125,7 @@ Rename the folder to osTicket.</p>
 <img width="1077" height="726" alt="image" src="https://github.com/user-attachments/assets/569397be-e2ff-42b6-907b-e5f86edc7e48" />
 
 <p>
-13th In IIS Manager, navigate to:
+14th In IIS Manager, navigate to:
 
 Sites → Default Web Site → osTicket → Browse
 
@@ -137,14 +135,14 @@ Sites → Default Web Site → osTicket → Browse
 <img width="1416" height="731" alt="image" src="https://github.com/user-attachments/assets/7248418f-5d6e-41f9-91e1-88dfa297bff7" />
 
 <p>
-Within PHP Manager, enable the required PHP extensions, restart the server, and verify they are enabled.
+15th Within PHP Manager, enable the required PHP extensions, restart the server, and verify they are enabled.
 
 </p>
 <p>
 <img width="1263" height="675" alt="image" src="https://github.com/user-attachments/assets/6ff5a349-a44e-4709-a8ec-45c9bb2bf55e" />
 
 <p>
-Navigate to:
+16th Navigate to:
 
 C:\inetpub\wwwroot\osTicket\include
 
@@ -154,40 +152,40 @@ Rename ost-sampleconfig.php to ost-config.php.
 <p>
 <img width="1018" height="633" alt="image" src="https://github.com/user-attachments/assets/9594641b-4f41-4696-9de4-c124998fb1f8" />
 <p>
-Right-click the file, open Properties → Security, disable inheritance, and remove all existing permissions.
+17th Right-click the file, open Properties → Security, disable inheritance, and remove all existing permissions.
 
 Grant Everyone full control.</p>
 <p>
 <img width="706" height="451" alt="image" src="https://github.com/user-attachments/assets/b0eea705-d74f-45cd-9fdb-fb34998ef225" />
 
 <p>
-Continue the osTicket web-based setup by clicking Continue. Assign a help desk name and configure a default email address for ticket notifications.</p>
+18th Continue the osTicket web-based setup by clicking Continue. Assign a help desk name and configure a default email address for ticket notifications.</p>
 <p>
 <img width="1238" height="747" alt="image" src="https://github.com/user-attachments/assets/9b7c7a8f-4fb9-465a-9600-cee0fd0471e0" />
 
 <p>
-Install HeidiSQL, open the application, and create a new session using root as the username and password.
+19th Install HeidiSQL, open the application, and create a new session using root as the username and password.
 
 </p>
 <p>
 <img width="853" height="598" alt="image" src="https://github.com/user-attachments/assets/aef1e673-d668-47fa-a231-113b02e7921f" />
 
 <p>
-Create a new database named osTicket.
+20th Create a new database named osTicket.
 
 </p>
 <p>
 <img width="1227" height="803" alt="image" src="https://github.com/user-attachments/assets/b9425ba1-2204-4c7c-8903-1fcc0b18e288" />
 
 <p>
-Select Continue to complete the installation.
+21 Select Continue to complete the installation.
 
 </p>
 <p>
 <img width="1297" height="973" alt="image" src="https://github.com/user-attachments/assets/863b0de8-e729-4956-be30-9c5bcb116e99" />
 
 <p>
-Congratulations! You have successfully installed osTicket. Additional configuration can be performed to assign user roles and permissions, but the core ticket creation and resolution system is now operational.
+22nd Congratulations! You have successfully installed osTicket. Additional configuration can be performed to assign user roles and permissions, but the core ticket creation and resolution system is now operational.
 
 </p>
 <p>
