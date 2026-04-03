@@ -127,7 +127,7 @@ Enable CGI and click OK to apply the changes.
 <img width="1418" height="732" alt="image" src="https://github.com/user-attachments/assets/d005203c-7509-495b-bf1b-3e3cfe15e30a" />
 
 <p>
-Extract osTicket v1.15.8 and copy all contents into:
+12th Extract osTicket v1.15.8 and copy all contents into:
 
 C:\inetpub\wwwroot
 
@@ -135,6 +135,29 @@ Rename the folder to osTicket.</p>
 <p>
 <img width="1077" height="726" alt="image" src="https://github.com/user-attachments/assets/569397be-e2ff-42b6-907b-e5f86edc7e48" />
 
+<p>
+13th In IIS Manager, navigate to:
+
+Sites → Default Web Site → osTicket → Browse
+
+
+</p>
+<p>
+<img width="1416" height="731" alt="image" src="https://github.com/user-attachments/assets/7248418f-5d6e-41f9-91e1-88dfa297bff7" />
+
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />
+<p>
+<img width="1297" height="681" alt="image" src="https://github.com/user-attachments/assets/dba43260-3428-4070-a792-f603f9a295fb" />
+
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />
+<p>
+<img width="1297" height="681" alt="image" src="https://github.com/user-attachments/assets/dba43260-3428-4070-a792-f603f9a295fb" />
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
