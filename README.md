@@ -52,11 +52,9 @@ Enable CGI and click OK to apply the changes.
 
 </p>
 <p>
-4th Enable IIS by opening the Control Panel and selecting Turn Windows features on or off. Locate Internet Information Services (IIS), enable it, then navigate to:
+5th Next, install PHP Manager for IIS by right-clicking the installer and selecting Install.
 
-World Wide Web Services → Application Development Features → CGI
 
-Enable CGI and click OK to apply the changes.
 </p>
 <br />
 
