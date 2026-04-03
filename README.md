@@ -45,7 +45,6 @@ World Wide Web Services → Application Development Features → CGI
 
 Enable CGI and click OK to apply the changes.
 </p>
-<br />
 
 <p>
 <img width="1402" height="737" alt="image" src="https://github.com/user-attachments/assets/85f8ac58-4818-4570-bdaf-7619085cb6a0" />
@@ -56,7 +55,6 @@ Enable CGI and click OK to apply the changes.
 
 
 </p>
-<br />
 
 <p>
 <img width="1267" height="638" alt="image" src="https://github.com/user-attachments/assets/4953d1d3-7da7-487e-a1f8-49fd20d7cd4c" />
@@ -66,8 +64,6 @@ Enable CGI and click OK to apply the changes.
 6th Install the URL Rewrite Module and configure the environment as required.
 
 </p>
-<br />
-
 <p>
 <img width="980" height="640" alt="image" src="https://github.com/user-attachments/assets/d785ee96-5ef9-439d-bb02-041a63db2a4b" />
 
@@ -76,7 +72,6 @@ Enable CGI and click OK to apply the changes.
 6th Create a new folder named PHP in the root of the C:\ drive.
 
 </p>
-<br />
 <p>
 <img width="1021" height="640" alt="image" src="https://github.com/user-attachments/assets/74bf965c-0654-46e2-a199-683707543fe1" />
 
@@ -84,7 +79,6 @@ Enable CGI and click OK to apply the changes.
 <p>
 7th Locate php-7.3.8-nts-Win32-VC15-x86.zip, extract it, and move its contents into the newly created C:\PHP directory.
 </p>
-<br />
 <p>
 <img width="1157" height="901" alt="image" src="https://github.com/user-attachments/assets/295501a8-b7e6-4c84-8f59-f9e6694ee210" />
 
@@ -196,8 +190,7 @@ Select Continue to complete the installation.
 <img width="1297" height="973" alt="image" src="https://github.com/user-attachments/assets/863b0de8-e729-4956-be30-9c5bcb116e99" />
 
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Congratulations! You have successfully installed osTicket. Additional configuration can be performed to assign user roles and permissions, but the core ticket creation and resolution system is now operational.
+
 </p>
-<br />
 <p>
-<img width="1297" height="681" alt="image" src="https://github.com/user-attachments/assets/dba43260-3428-4070-a792-f603f9a295fb" />
