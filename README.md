@@ -177,7 +177,7 @@ Grant Everyone full control.</p>
 <img width="1227" height="803" alt="image" src="https://github.com/user-attachments/assets/b9425ba1-2204-4c7c-8903-1fcc0b18e288" />
 
 <p>
-21 Select Continue to complete the installation.
+21st Select Continue to complete the installation.
 
 </p>
 <p>
